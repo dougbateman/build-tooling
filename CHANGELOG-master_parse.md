@@ -1,5 +1,9 @@
 # Change Log for Master Parse Tool
 
+**Version 1.24.0**
+
+- Added support for %conda and %pip as PYTHON_ONLY cell types.
+
 **Version 1.23.0**
 
 - If a cell has multiple LANGUAGE_ONLY (e.g. PYTHON_ONLY and SCALA_ONLY), it will include it if the notebook
